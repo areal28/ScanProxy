@@ -5,18 +5,18 @@ h = " \ 033 [32; 1 m "
 
 bersih
  spanduk fungsi () {
-		echo -e " \ t $ {p} ======================== "
+		echo -e " \ t $ {p} _________________________ "
 		echo -e " \ t $ {h}   ALAT PEMINDAI PROXY "
-		echo -e " \ t $ {p}    Penulis $ {m} : $ {p} ilham "
-		echo -e " \ t $ {p}     ilham_Maulana "
-		echo -e " \ t $ {p} Telegram $ {m} : $ {p} t.me/config_Free1 "
-		echo -e " \ t $ {p} ======================== "
-	   	echo -e " \ t $ {p} Shodan.io | Versi: 1.2 \ n \ n "
+		echo -e " \ t $ {p}    Penulis $ {m} : $ {p} Mr.Tr3v! 0n "
+		echo -e " \ t $ {p}     Black Coder Crush "
+		echo -e " \ t $ {p} Telegram $ {m} : $ {p} @config_geratis "
+		echo -e " \ t $ {p} _________________________ "
+	   	echo -e " \ t $ {p} Shodan.io | Versi: 1.0 \ n \ n "
 }
 spanduk
 
 function  sec () {
-		printf  " \ t \ b $ {p} [ $ {h} • $ {p} ] Cheking Proxy bentar$ {m} :     $ {p} "
+		printf  " \ t \ b $ {p} [ $ {h} • $ {p} ] Cheking Proxy $ {m} :     $ {p} "
 			untuk  w  di {3..0} ; melakukan
 			dapatkan = $ ( printf " \ b $ {w} " )
 		printf  " \ b \ b \ b (( $ {h} $ {get} $ {p} ) "
@@ -24,7 +24,7 @@ function  sec () {
 		selesai
 }
 
-printf  " \ t $ {p} [ $ {h} • $ {p} ] IP PROXY WOY? $ {m} : $ {p} "
+printf  " \ t $ {p} [ $ {h} • $ {p} ] PROXY YOU? $ {m} : $ {p} "
 baca proksi ;
 
 	jika \
@@ -144,4 +144,3 @@ baca proksi ;
 		echo -e " \ t $ {p} [ $ {m} ! $ {p} ] Proxy Salah $ {m} !! "
 		keluar 1
 	fi
-
