@@ -16,7 +16,7 @@ bersih
 spanduk
 
 function  sec () {
-		printf  " \ t \ b $ {p} [ $ {h} • $ {p} ] Cheking Proxy bentar $ {m} :     $ {p} "
+		printf  " \ t \ b $ {p} [ $ {h} • $ {p} ] Cheking Proxy bentar$ {m} :     $ {p} "
 			untuk  w  di {3..0} ; melakukan
 			dapatkan = $ ( printf " \ b $ {w} " )
 		printf  " \ b \ b \ b (( $ {h} $ {get} $ {p} ) "
