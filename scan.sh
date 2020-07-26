@@ -7,8 +7,8 @@ clear
 function banner(){
 		echo -e "\t${p}====================="
 		echo -e "\t${h}  TOOLS SCAN PROXY"
-		echo -e "\t${p}  Author${m}: ${p} Ilham_Maulana "
-		echo -e "\t${p}  Credit${m}: ${p} Ilham_Maulana && blackcodercrush"
+		echo -e "\t${p}  Author${m}: ${p} ChinoerCreator "
+		echo -e "\t${p}  Credit${m}: ${p} KANG CHINOER"
 		echo -e "\t${p}  Telegram${m}: ${p}t.me/config_Free1"
 		echo -e "\t${p}====================="
 	   	echo -e "\t${p} Shodan.io | Version:1.2\n\n"
