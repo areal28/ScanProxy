@@ -13,8 +13,7 @@ $ pkg install jq
 $ pkg install curl 
 
 
-$ git clone https://github.com/Ilham94/ScanProxy
-
+$ git clone https://github.com/kangchinoer/ScanProxy
 
 $ cd ScanProxy
 
